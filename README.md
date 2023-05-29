@@ -1,4 +1,4 @@
-# Lung-concern-detection-based-on-D3-Decision-Tree
+# lung-cancer-detection-based-on-D3-Decision-Tree
 Lung concern detection based on clinical reports is one of the primary tasks considered last decade. You are given a dataset that includes 15 clinical features for 309 people who visited Shahid Modares hospital in Shahrivar 1401. In this problem, you are asked to implement the ID3 Decision Tree to classify whether people have lung concerns.
 
 a) Implement a Decision Tree and train a model with 25% of the dataset selected randomly; then, report the obtained tree (graph information like depth, leaves, etc.), accuracy, and confusion matric for the test set. (Note: You are only allowed to use “Numpy,” “Pandas,” and “math” libraries)
